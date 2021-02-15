@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Esta es una prueba xD dos punto cero
 
 texto despues del reset 2.0, mmmmno se que hacer xd
+=======
+Esta es una prueba xD dos punto uno.
+Segunda linea de prueba
+>>>>>>> 96a178e2bdff932cccbe3a9c78d163502d98e925
